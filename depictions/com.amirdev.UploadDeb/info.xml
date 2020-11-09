@@ -1,0 +1,20 @@
+<package>
+	<id>com.amirdev.UploadDeb</id>
+	<name>UploadDeb</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.0</maxiOS>
+			<otherVersions>13.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>dpkg-perl, git</dependencies>
+	<descriptionlist>
+		<description> Upload Deb Package to your Githubp repo via command line </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
